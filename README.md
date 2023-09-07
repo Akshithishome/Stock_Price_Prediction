@@ -17,9 +17,10 @@ Technologies used:
 2. Pre-processing - Mainly the closing value of the stock is taken for each date, and used MinMaxScaler to normalize the data between (0,1).
 3. Model Training - Used Stacked LSTM with Adam Optimizer after splitting the data as such, 65% for training and 35% for testing.
 4. Prediction - After calculating the RMSE values for train data and test data which are "216.28223294235866" and "152.42438442804368" respectively, there isn't much difference showing our model is good and the outputs are plotted
+
 ![image](https://github.com/Akshithishome/Stock_Price_Prediction/assets/105364531/f4659356-6e33-4b70-81eb-7e4711c46e6e)
 
-5. Forecasting for after 10 days the output we get is
+6. Forecasting for after 10 days the output we get is
 
 ![image](https://github.com/Akshithishome/Stock_Price_Prediction/assets/105364531/e31db410-675a-4bf7-b810-f1ffafbbf679)
 

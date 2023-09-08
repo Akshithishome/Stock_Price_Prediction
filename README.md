@@ -20,7 +20,7 @@ Technologies used:
 
 ![image](https://github.com/Akshithishome/Stock_Price_Prediction/assets/105364531/f4659356-6e33-4b70-81eb-7e4711c46e6e)
 
-6. Forecasting for after 30 days by using the previous 100 observations in the data
+6. Forecasting for after 30 days by using the previous 100 observations in the data with simultaneous reshaping the output we get is:
 
 ![image](https://github.com/Akshithishome/Stock_Price_Prediction/assets/105364531/e31db410-675a-4bf7-b810-f1ffafbbf679)
 
